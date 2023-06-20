@@ -3,7 +3,7 @@ name: Artifact
 on: push
 
 env : 
-  ARTIGACT_NAME : myartifact
+  ARTIFACT_NAME : myartifact
 jobs:
   main:
     runs-on: ubuntu-latest
